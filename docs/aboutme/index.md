@@ -7,4 +7,4 @@
   
   So, what does it mean to defend an engineering decision: and do you currently know how to do it? I believe that defending an engineering decision means that you can provide evidence, or statistics about your work on something, so that if someone wants to disagree or disapprove of your solution, then you can provide your proper work with the right dimensions, angles, geometry, etc. As of where I am at now, some fields like with statics and solids which I am currently in, would be a little complicated to provide evidence without me having to reassure myself consistently that I am doing the right formulas for my problems. But as time goes on, I should be able to know how to properly defend an engineering decision as I plan on mastering my craft throughout the future.
   
-  I have spent anywhere from 5-6 hours on this assignment.
+  I have spent anywhere from 4-5 hours on this assignment.
