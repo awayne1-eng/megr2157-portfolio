@@ -1,4 +1,3 @@
-<img width="1323" height="1921" alt="2021024134-3" src="https://github.com/user-attachments/assets/affce137-2ec7-4a88-8835-c091d634629f" />
 # A1 – Portfolio Analysis of Davis Ryan (https://www.davisryan.tech/)
 
 a) Navigability: The portfolio has a very clean landing page with clearly labeled navigation links. Those links consist of LinkedIn, Projects, and his Resume. His project list displays distinct tiles that consist of Rocket Engine Testing, Liquid Courage III, Pocket Rocket, Manufacturing, and High Power Rocketry. Each tile also has a learn more button for anyone interested. A reader can easily locate any project in under 60 seconds because of his concise homepage which acts as a functional index. The site places all projects on a single level, so moving between pages requires returning to the homepage rather than following a structured navigation path.
