@@ -21,3 +21,16 @@ c) Evidence of reasoning: The visible sections contain introductory statements a
 d) Professional tone: The portfolio maintains a professional tone through concise language, a formal introduction, and a clean layout. Statements such as "Mechanical Engineering Student at Cornell University" and the degree summary communicate academic credentials in a way appropriate for an engineering audience. The tone is consistent and avoids casual phrasing, though some technical depth is limited on the landing page.
 
 Final Assessment: The portfolio demonstrates effective navigability through its clearly labeled navigation bar, allowing a reader to reach major sections in under 60 seconds. Reproducibility is limited because then landing page lists project categories without providing technical documentation or procedures. Evidence of reasoning is not present on the homepage, as the visible content focuses on academic background rather than engineering decisions. The tone is professional due to the concise presentation and formal introduction, though deeper project pages would be required to evaluate technical communication. Overall, the portfolio is well-organized visually but lacks the documentation necessary to meet the functional requirements of reproducibility and reasoning.
+
+Task B: Product Analysis
+a) Primary Function: The mechanical pencil's main function is to take a small axial force from my hand at the push-button and turn it into a controlled linear movement of graphite. It does this through a spring-loaded clutch that grips and releases the lead. In other words, the pencil's job is to advance the graphite in a predictable amount each time I press the button.
+
+b) Governing Model: i) The behavior of the clutch is governed by friction between the jaws and graphite. The basic model is: F_f = uN   
+F_f = friction force holding the lead
+u = coefficient of friction between the clutch jaws and the graphite
+N = normal force created when the jaws are pushed into the tapered section of the barrel
+This friction is what keeps the lead from sliding out while I'm writing.
+ii) I'm assuming the clutch jaws act like rigid bodies and that the friction coefficient between the jaws and the graphite stays basically constant while the pencil is being used. Without that assumption, the model wouldn't describe the gripping behavior accurately.
+
+c) Component Photos and Geometry Descriptions: The Barrel  
+
