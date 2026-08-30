@@ -4,6 +4,11 @@
 For this assignment, I was asked to create a 3D truss with specific given requirements/constraints. This image was what the requirements/constraints consist of.
 ![image alt](https://github.com/awayne1-eng/megr2157-portfolio/blob/232e4556cc62db65a405d64fb7881e212720c3ce/IMG_0948.jpeg)
 
+In the image layout of the soon to be truss, I am given that point A is a pin and point B is a roller. I am also given the lengths of both a and b, where a=0.4m and b=0.3m. I was also able to choose the value of the external forces. ranging anywhere from 20-30kN. I ended up choosing 24kN for this assignment. I need to design a lightweight truss, containing A500 steel, or something of similar relevance.
+
+Since one of the main objectives is to make the truss lightweight, I want to try and minimize the number of beams connected to the truss. But I still need to ensure that the number of beams will be enough to support the truss, or it will not sustain itself. I ended up deciding that the best way to figure how to maximize the truss's full potential would be to use triangular geometry shape within the truss.
+![image alt](
+
 ## Analyze
 
 
