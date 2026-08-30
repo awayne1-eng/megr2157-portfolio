@@ -21,9 +21,13 @@ Now, the previous step helped me find the remaining internal member force calcul
 ![image alt](https://github.com/awayne1-eng/megr2157-portfolio/blob/fadc273aa0387af5624fb88443eb89ce6e5106d2/IMG_0953.jpeg)
 ![image alt](https://github.com/awayne1-eng/megr2157-portfolio/blob/fd3b3ae4399ced6a8adf62f41a062bc999b888fe/IMG_0954.jpeg)
 
-#Internal Forces (Symbollically and Numerically)
+## Internal Forces (Symbollically and Numerically)
 This step compiles the calculated internal member forces into two separate summary tables categorized by symbols such as positive or negative, and then by the true numerical values. Splitting this data into clear reference tables is important because it provides an organized view of the structural system, making it easier to identify critical design points. Member DE is a good example as it carries the largest tensile load for me at 26.67kN, which is required for selecting the appropriate member cross-sections in the final design phase. So, this summary was completed by putting together the previously solved joint forces, applying a sign convention where tension is (+) and compression is (-). Lastly, it also highlighted the maximum loaded members to ensure clear legibility for material optimization. 
 ![image alt](https://github.com/awayne1-eng/megr2157-portfolio/blob/662968201920abffa8660f61b7077295ad79bd1e/IMG_0955.jpeg)
+![image alt](https://github.com/awayne1-eng/megr2157-portfolio/blob/49a50a9c354f1f3e089b9b6164be52a419c2c43f/IMG_0956.jpeg)
+
+## Material Sizing/Cross-Sectional Area and Weight Approximation
+I began this process by providing the knowns and unknowns, deriving the formulas to find the minimum required cross-sectional area using a safety factor of 3.5, and set up the math to estimate the total weight of the truss. I needed to do this to move from just calculating abstract forces to figuring out actual physical sizing, so the members don't yield under the maximum load, while also setting up a way to find the overall weight once a specific material density is picked. I started by writing down all the individual lengths to get a total truss length of 3.7m and used the maximum force of 26.67kN to set up my allowable stress equation. After this, I cross-multiplied and rearranged things to get a formula for the minimum area on its own. Since I needed to match standard US units, I converted the max force from kN to kips and changed the total length over to inches(145.67in). This let me simplify the area breakdown down to 20.98 over S_y in^2. I was then able to establish the final weight equation.
 ![image alt](
 ## Analyze
 
