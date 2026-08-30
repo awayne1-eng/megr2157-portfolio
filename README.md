@@ -14,7 +14,7 @@ mkdocs serve
 Then open http://127.0.0.1:8000 in your browser. The sidebar nav updates automatically from `mkdocs.yml`.
 
 ## Publish
-
+![](images/screenshot.png)
 Push to `main` — the included GitHub Actions workflow (`.github/workflows/deploy.yml`) builds the site and publishes it to GitHub Pages automatically.
 
 ## Structure
