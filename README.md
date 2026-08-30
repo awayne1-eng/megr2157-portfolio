@@ -2,7 +2,7 @@
 
 This repository is an MkDocs site (same engine Fab Academy uses) with the Analyze / Decide / Communicate framework built into every assignment page. The rendered site — with the left-hand navigation to every assignment — lives in `docs/`; this README is just for people working with the repo itself.
 
-
+![image alt](https://github.com/awayne1-eng/megr2157-portfolio/blob/232e4556cc62db65a405d64fb7881e212720c3ce/IMG_0948.jpeg)
 ## Don't do, possible save for later. Preview locally
 
 ```bash
