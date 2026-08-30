@@ -23,7 +23,7 @@ Now, the previous step helped me find the remaining internal member force calcul
 
 #Internal Forces (Symbollically and Numerically)
 This step compiles the calculated internal member forces into two separate summary tables categorized by symbols such as positive or negative, and then by the true numerical values. Splitting this data into clear reference tables is important because it provides an organized view of the structural system, making it easier to identify critical design points. Member DE is a good example as it carries the largest tensile load for me at 26.67kN, which is required for selecting the appropriate member cross-sections in the final design phase. So, this summary was completed by putting together the previously solved joint forces, applying a sign convention where tension is (+) and compression is (-). Lastly, it also highlighted the maximum loaded members to ensure clear legibility for material optimization. 
-![image alt](
+![image alt](https://github.com/awayne1-eng/megr2157-portfolio/blob/662968201920abffa8660f61b7077295ad79bd1e/IMG_0955.jpeg)
 ![image alt](
 ## Analyze
 
