@@ -8,6 +8,9 @@ In the image layout of the soon to be truss, I am given that point A is a pin an
 ![image alt](https://github.com/awayne1-eng/megr2157-portfolio/blob/e0b9a8b0bd65b205871df8e1eedbb6b03e06afaf/IMG_0949.jpeg)
 
 Since one of the main objectives is to make the truss lightweight, I want to try and minimize the number of beams connected to the truss. But I still need to ensure that the number of beams will be enough to support the truss, or it will not sustain itself. I ended up deciding that the best way to figure how to maximize the truss's full potential would be to use triangular geometry shape within the truss.
+![image alt](https://github.com/awayne1-eng/megr2157-portfolio/blob/c463b8084c5134678a4cde1de6602b1f07f57cbf/IMG_0950.jpeg)
+
+For this next step, I calculated the external reaction forces at supports A and B by applying the static equilibrium equations to the entire truss under my selected load of P=24kN. Determining these support reactions is a mandatory prerequisite because it balances the entire structure externally before you can move on to solve for the internal members at each joint. To end up solving this, I first summed up the moments of pin A to isolate and solve for the vertical reaction at roller B. I then applied the global force balance equations to determine the remaining reactions at pin A.
 ![image alt](
 
 ## Analyze
