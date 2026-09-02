@@ -35,7 +35,11 @@ In this section, I analyzed the single-shear pin connections at the supports by 
 In this final part for the weight approximation, I calculated the actual minimum diameter needed for the connection pins and figured out the total combined weight of all six pins across the truss joints. I needed to find the actual diameter, so I know what physical size hardware to specify for the design, and finding the combined pin weight is necessary to factor the connection hardware into the total overall weight of the truss system. I started with the minimum area(0.0423in^2) and rearranged the circular area (A=pi d^2 over 4) to solve for diameter, which gave me d=0.232in. From there, I set up the volume and weight formulas for a single pin using the material density that equals 0.278lb/in^3, and then scaled it up to account for all 6 joints, and then multiplied the values together to get a final combined pin weight of 0.0706lb.
 ![image alt](https://github.com/awayne1-eng/megr2157-portfolio/blob/9dc04752c5a217ce021f8e6562b6acd7707395a0/IMG_0960.jpeg)
 ![image alt](IMG_0961.jpeg)
-## Analyze
+## CAD Truss and Pin Design/Assembly
+I started by sketching the basic geometry of my truss in SolidWorks using the dimensions from my calculations. I created the triangular sections and internal members, so the overall shape matched the truss design before adding the final member thickness.
+![image alt](IMG_0968.jpeg)
+
+Next, I set up the member width using 1.54in, which was based on my design calculations and the material strength of 250MPa or 36.26ksi. I used smart dimension to keep the members at a consistent 1.54in width throughout the truss.
 
 
 ## Decide
