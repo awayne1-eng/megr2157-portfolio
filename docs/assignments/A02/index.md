@@ -49,7 +49,9 @@ I then began to create my pin(s). I created a separate part for the connection p
 ![image](IMG_0977.jpeg)
 
 I then added a larger circular section to the end of the 0.232in pin and extruded it separately to create the pin head. The larger head prevents the pin from passing completely through the truss hole and makes the pin easier to position in the assembly.
-![image alt](
+![image alt](IMG_0978.jpeg)
+
+Finally,
 
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
