@@ -46,7 +46,10 @@ After I dimensioned the members, I used the sketches to remove the unnecessary i
 ![image alt](IMG_0976.jpeg)
 
 I then began to create my pin(s). I created a separate part for the connection pin using the diameter calculated from the pin stress analysis. My calculated minimum diameter was 0.0423in^2, but I found the square root which was 0.2057in, so I selevcted a larger diameter of 0.232in to make sure the actual pin was above the required minimum size.
-![image](
+![image](IMG_0977.jpeg)
+
+I then added a larger circular section to the end of the 0.232in pin and extruded it separately to create the pin head. The larger head prevents the pin from passing completely through the truss hole and makes the pin easier to position in the assembly.
+![image alt](
 
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
