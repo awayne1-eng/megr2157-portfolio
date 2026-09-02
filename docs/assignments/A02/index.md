@@ -52,7 +52,7 @@ I then added a larger circular section to the end of the 0.232in pin and extrude
 ![image alt](IMG_0978.jpeg)
 
 Finally, I assembled my truss and pins, and I ended up using ASTM A36 steel as the material for the truss. I chose A36 because its yield strength is approximately 250MPa which is the value I used in my calculations. After applying the material, I completed the truss assembly with the pins and verified that the final dimensions matched the values I calculated.
-![image alt](
+![image alt](IMG_0983.jpeg)
 
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
