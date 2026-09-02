@@ -43,7 +43,10 @@ Next, I set up the member width using 1.54in, which was based on my design calcu
 ![image alt](IMG_0975.jpeg)
 
 After I dimensioned the members, I used the sketches to remove the unnecessary interior material and create the final truss profile. This left the triangular openings while keeping the 1.54in wide structural members that will carry the applied loads.
-![image alt](
+![image alt](IMG_0976.jpeg)
+
+I then began to create my pin(s). I created a separate part for the connection pin using the diameter calculated from the pin stress analysis. My calculated minimum diameter was 0.0423in^2, but I found the square root which was 0.2057in, so I selevcted a larger diameter of 0.232in to make sure the actual pin was above the required minimum size.
+![image](
 
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
