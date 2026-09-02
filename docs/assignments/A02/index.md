@@ -55,6 +55,9 @@ I then added a larger circular section to the end of the 0.232in pin and extrude
 Finally, I assembled my truss and pins, and I ended up using ASTM A36 steel as the material for the truss. I chose A36 because its yield strength is approximately 250MPa which is the value I used in my calculations. After applying the material, I completed the truss assembly with the pins and verified that the final dimensions matched the values I calculated.
 ![image alt](IMG_0983.jpeg)
 
+## Engineering Lesson
+I learned how to design a truss by using the forces in each member and the yield strength of the material to determine the dimensions needed for the truss. I also learned how to use a safety factor to make sure the design could handle the applied load without yielding. When designing the pin, I used the required cross-sectional area to calculate a minimum diameter and then chose a slightly larger diameter for the actual design. I was able to knock some rust off with SolidWorks and put these parts together that I created for a stable truss. I also learned at the end how much the material selected values the calculations for the truss and pin(s) as well, especially when considering yield strengths. Overall, it was a tough assignment, but it helped me also to learn valuable information for myself.
+
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
