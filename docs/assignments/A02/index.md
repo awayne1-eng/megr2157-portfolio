@@ -1,6 +1,7 @@
 # A2 – Truss Stress Analysis
 
-## Truss Sketches and Outlines
+## Truss Design and Geometry (Decide)
+
 For this assignment, I was asked to create a 3D truss with specific given requirements/constraints. This image was what the requirements/constraints consist of.
 ![My Image](IMG_0948.jpeg)
 
@@ -10,7 +11,7 @@ In the image layout of the soon to be truss, I am given that point A is a pin an
 Since one of the main objectives is to make the truss lightweight, I want to try and minimize the number of beams connected to the truss. But I still need to ensure that the number of beams will be enough to support the truss, or it will not sustain itself. I ended up deciding that the best way to figure how to maximize the truss's full potential would be to use triangular geometry shape within the truss.
 ![image alt](IMG_0950.jpeg)
 
-## Forces Calculations
+## Reaction Force Calculations
 For this next step, I calculated the external reaction forces at supports A and B by applying the static equilibrium equations to the entire truss under my selected load of P=24kN. Determining these support reactions is a mandatory prerequisite because it balances the entire structure externally before you can move on to solve for the internal members at each joint. To end up solving this, I first summed up the moments of pin A to isolate and solve for the vertical reaction at roller B. I then applied the global force balance equations to determine the remaining reactions at pin A.
 ![image alt](IMG_0951.jpeg)
 
@@ -27,16 +28,16 @@ This step compiles the calculated internal member forces into two separate summa
 ![image alt](IMG_0955.jpeg)
 ![image alt](IMG_0956.jpeg)
 
-## Material Sizing/Cross-Sectional Area and Weight Approximation
+## Member Sizing and Weight
 I began this process by providing the knowns and unknowns, deriving the formulas to find the minimum required cross-sectional area using a safety factor of 3.5, and set up the math to estimate the total weight of the truss. I needed to do this to move from just calculating abstract forces to figuring out actual physical sizing, so the members don't yield under the maximum load, while also setting up a way to find the overall weight once a specific material density is picked. I started by writing down all the individual lengths to get a total truss length of 3.7m and used the maximum force of 26.67kN to set up my allowable stress equation. After this, I cross-multiplied and rearranged things to get a formula for the minimum area on its own. Since I needed to match standard US units, I converted the max force from kN to kips and changed the total length over to inches(145.67in). This let me simplify the area breakdown down to 20.98 over 36.36 to give me 0.5786in^2. I was then able to establish the final weight equation.
 ![image alt](IMG_0984.jpeg)
 
-## Pin Connection Sizing and Shear Stress Analysis
+## Pin Sizing and Shear Analysis
 In this section, I analyzed the single-shear pin connections at the supports by drawing a quick free-body diagram of the pin under the maximum reaction load, deriving the algebraic equation for the minimum cross-sectional area using a safety factor of 4, and numerically solving for the actual required pin area. I had to do this to make sure the connection pins are thick enough to handle the shear forces at the supports without failing, which is just as important as sizing the truss members themselves since the joints are usually the most critical points in the design. I started by gathering all my known values, including the largest reaction load of 8kN and the pin material's yield strength of 170ksi, and then I set up the allowable shear stress limit. Next, I rearranged the baseline shear formula by cross-multiplying to isolate the minimum area, giving me the symbolic formula A_min = NV over material yield strength. To solve it numerically, I converted the 8kN load over to US customary units, divided the yield strength by my safety factor to get an allowable shear stress of 42.5ksi, and then plugged everything in to find a final minimum pin area of 0.0423in^2. 
 In this final part for the weight approximation, I calculated the actual minimum diameter needed for the connection pins and figured out the total combined weight of all six pins across the truss joints. I needed to find the actual diameter, so I know what physical size hardware to specify for the design, and finding the combined pin weight is necessary to factor the connection hardware into the total overall weight of the truss system. I started with the minimum area(0.0423in^2) to which I also found it easier to use 0.2057in for a pin design on the outer portion, and rearranged the circular area (A=pi d^2 over 4) to solve for diameter, which gave me d=0.232in. From there, I set up the volume and weight formulas for a single pin using the material density that equals 0.278lb/in^3, and then scaled it up to account for all 6 joints, and then multiplied the values together to get a final combined pin weight of 0.0706lb.
 ![image alt](IMG_0985.jpeg)
 ![image alt](IMG_0961.jpeg)
-## CAD Truss and Pin Design/Assembly
+## SolidWorks Truss and Pin Design/Assembly
 I started by sketching the basic geometry of my truss in SolidWorks using the dimensions from my calculations. I created the triangular sections and internal members, so the overall shape matched the truss design before adding the final member thickness.
 ![image alt](IMG_0968.jpeg)
 
@@ -55,17 +56,20 @@ I then added a larger circular section to the end of the 0.232in pin and extrude
 Finally, I assembled my truss and pins, and I ended up using ASTM A36 steel as the material for the truss. I chose A36 because its yield strength is approximately 250MPa which is the value I used in my calculations. After applying the material, I completed the truss assembly with the pins and verified that the final dimensions matched the values I calculated.
 ![image alt](IMG_0983.jpeg)
 
-## Engineering Lesson
+## Engineering Lesson (Communicate)
 I learned how to design a truss by using the forces in each member and the yield strength of the material to determine the dimensions needed for the truss. I also learned how to use a safety factor to make sure the design could handle the applied load without yielding. When designing the pin, I used the required cross-sectional area to calculate a minimum diameter and then chose a slightly larger diameter for the actual design. I was able to knock some rust off with SolidWorks and put these parts together that I created for a stable truss. I also learned at the end how much the material selected values the calculations for the truss and pin(s) as well, especially when considering yield strengths. Overall, it was a tough assignment, but it helped me also to learn valuable information for myself.
 
 ## Likelihood of Failure Modes in Truss Components
 (Part1) The truss was made from ASTM A36 steel, and it happens to be ductile because of its typical elongation of 20% at fracture. Members BE, DE, and DA are in tension, so their expected failure mode would be yielding. My largest tensile force became as 26.67kN. This made it the most likely tension member to yield. Increasing the cross-sectional area would reduce the stress and chance of yielding. Members BC, CE, CD, EF, and FA are in compression. This would lead to meaning that buckling would be a main failure concern. CE has the largest compression at 16.00kN. Increasing the member size or adding more support would help reduce the chances of buckling. DF happened to be a zero-force member, so it is not expected to fail under this loading condition.
 Source: “ASTM A36 Steel: Datasheet, Properties, Cross‑Reference Table, Suppliers.” Steel‑Grades, [https://www.steel-grades.com/Steel-Grades/Carbon-Steel/ASTM-A36.html.](url)
 
-(Part2) 
+(Part2) The pin in the truss joint is most likely to fail in shear or bearing, depending on the relative strength of the pin and the connected plate. Pins made from ductile steels such as A36 or similar grades, typically experience shear failure when the shear stress approaches the material's shear strength. If the pin is strong, the connected plate may instead fail in bearing where the bearing stress exceeds the allowable bearing capacity of the plate. Engineering references identify shear of the pin and bearing deformation of the plate as the two primary failure modes in pinned or bolted structural connections. Because pins are typically designed to be ductile and resist shear, bearing failure in the plate often governs unless the pin diameter is too small. A design modification to reduce the likelihood of failure includes increasing the pin diameter, which raises shear area and lowers shear stress, or increasing plate thickness, which reduces bearing stress and improves tear-out resistance.
+Source: “Bolt Shear Strength.” Portland Bolt,
+[https://www.portlandbolt.com/technical/shear-strength/](url)
+Source: “Bolt Bearing.” Portland Bolt,
+[https://www.portlandbolt.com/technical/bolt-bearing/](url)
+AI: I used ChatGPT to help review my answers and research for the truss failure analysis. I prompted it by giving my calculated member forces, material choice, and my original answers for parts 1 and 2. I asked it check whether my failure modes made sense, and to help me find some credible sources. I used the info provided to support my own calculations and reasoning rather than having AI complete the analysis for me.
 
-## Decide
-_Which geometry did you select, and why? This is your first open design choice in the course — defend it._
+Overall, this assignment was pretty challenging and took me anywhere from 13-14 hours, but it was a good learning experience.
 
-## Communicate
 
