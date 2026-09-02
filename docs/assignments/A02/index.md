@@ -65,9 +65,9 @@ Source: “ASTM A36 Steel: Datasheet, Properties, Cross‑Reference Table, Suppl
 
 (Part2) The pin in the truss joint is most likely to fail in shear or bearing, depending on the relative strength of the pin and the connected plate. Pins made from ductile steels such as A36 or similar grades, typically experience shear failure when the shear stress approaches the material's shear strength. If the pin is strong, the connected plate may instead fail in bearing where the bearing stress exceeds the allowable bearing capacity of the plate. Engineering references identify shear of the pin and bearing deformation of the plate as the two primary failure modes in pinned or bolted structural connections. Because pins are typically designed to be ductile and resist shear, bearing failure in the plate often governs unless the pin diameter is too small. A design modification to reduce the likelihood of failure includes increasing the pin diameter, which raises shear area and lowers shear stress, or increasing plate thickness, which reduces bearing stress and improves tear-out resistance.
 Source: “Bolt Shear Strength.” Portland Bolt,
-[https://www.portlandbolt.com/technical/shear-strength/](url)
+[Portland Bolt – Bolt Shear Strength](https://www.portlandbolt.com/technical/shear-strength/)
 Source: “Bolt Bearing.” Portland Bolt,
-[https://www.portlandbolt.com/technical/](url)
+[https://www.portlandbolt.com/technical/bolt-bearing/](url)
 AI: I used ChatGPT to help review my answers and research for the truss failure analysis. I prompted it by giving my calculated member forces, material choice, and my original answers for parts 1 and 2. I asked it check whether my failure modes made sense, and to help me find some credible sources. I used the info provided to support my own calculations and reasoning rather than having AI complete the analysis for me.
 
 Overall, this assignment was pretty challenging and took me anywhere from 13-14 hours, but it was a good learning experience.
