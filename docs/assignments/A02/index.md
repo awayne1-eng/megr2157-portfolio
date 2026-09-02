@@ -40,7 +40,10 @@ I started by sketching the basic geometry of my truss in SolidWorks using the di
 ![image alt](IMG_0968.jpeg)
 
 Next, I set up the member width using 1.54in, which was based on my design calculations and the material strength of 250MPa or 36.26ksi. I used smart dimension to keep the members at a consistent 1.54in width throughout the truss.
+![image alt](IMG_0975.jpeg)
 
+After I dimensioned the members, I used the sketches to remove the unnecessary interior material and create the final truss profile. This left the triangular openings while keeping the 1.54in wide structural members that will carry the applied loads.
+![image alt](
 
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
