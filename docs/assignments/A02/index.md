@@ -62,7 +62,7 @@ I learned how to design a truss by using the forces in each member and the yield
 (Part1) The truss was made from ASTM A36 steel, and it happens to be ductile because of its typical elongation of 20% at fracture. Members BE, DE, and DA are in tension, so their expected failure mode would be yielding. My largest tensile force became as 26.67kN. This made it the most likely tension member to yield. Increasing the cross-sectional area would reduce the stress and chance of yielding. Members BC, CE, CD, EF, and FA are in compression. This would lead to meaning that buckling would be a main failure concern. CE has the largest compression at 16.00kN. Increasing the member size or adding more support would help reduce the chances of buckling. DF happened to be a zero-force member, so it is not expected to fail under this loading condition.
 Source: “ASTM A36 Steel: Datasheet, Properties, Cross‑Reference Table, Suppliers.” Steel‑Grades, [https://www.steel-grades.com/Steel-Grades/Carbon-Steel/ASTM-A36.html.](url)
 
-(Part2)
+(Part2) 
 
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
