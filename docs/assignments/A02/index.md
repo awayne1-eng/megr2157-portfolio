@@ -67,7 +67,7 @@ Source: “ASTM A36 Steel: Datasheet, Properties, Cross‑Reference Table, Suppl
 Source: “Bolt Shear Strength.” Portland Bolt,
 [https://www.portlandbolt.com/technical/shear-strength/](url)
 Source: “Bolt Bearing.” Portland Bolt,
-[https://www.portlandbolt.com/technical/bolt-bearing/](url)
+[https://www.portlandbolt.com/technical/](url)
 AI: I used ChatGPT to help review my answers and research for the truss failure analysis. I prompted it by giving my calculated member forces, material choice, and my original answers for parts 1 and 2. I asked it check whether my failure modes made sense, and to help me find some credible sources. I used the info provided to support my own calculations and reasoning rather than having AI complete the analysis for me.
 
 Overall, this assignment was pretty challenging and took me anywhere from 13-14 hours, but it was a good learning experience.
