@@ -26,6 +26,10 @@ There was a large difference between my hand calculated deflection of 0.009in an
 
 For the intended design, I would trust my hand calculated result more for the axial deflection because the assignment is specifically based on direct axial tension. The equation I used directly relates to the load, length, area, modulus of elasticity, and axial deformation. Before trusting the FEA displacement more, I would need to make sure that the 400lb force was applied completely along the axis of the bar so that bending was not included in the result.
 
+## Pin Hole
+For the pin hole, I assumed a hole with a diameter equal to about half of the flat bar width, giving d/W = 0.50. I used a stress concentration factor of approximately K_t = 4.25. Using my FEA stress of 1.164 x 10^5 N/m^2 as a conservative nominal stress away from the hole, I estimated the peak stress as 4.947 x 10^5 N/m^2, or about 0.0718ksi. Compared to the 40ksi aluminum strength given in the assignment, this gives a factor of safety of approximately 557, so the bar would still pass the safety requirement within the pin hole.
+![My Image](
+
 ## Decide
 
 
