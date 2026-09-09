@@ -6,7 +6,8 @@ For this assignment, I had to parametrically design a bar in CAD. For the load, 
 For my calculations, I chose an applied force of 400lb, which is within the range required for the assignment. I used a modulus of elasticity of 8.8 x 10^6 psi and the maximum deflection of 0.009in. Using the direct tension elongation equation and my area of 25,92in^2, I solved for the bar length and got 5,132.16in.
 ![My Image](IMG_1013.jpeg)
 ## Analyze
-
+![My Image](IMG_1014.jpeg)
+![My Image](
 
 ## Decide
 
