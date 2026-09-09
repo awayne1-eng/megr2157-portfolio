@@ -13,6 +13,8 @@ I entered my calculated values into SolidWorks as global variables so the dimens
 ## FEA/CAD Designs
 I generated a von Mises stress map using the same 400lb load from my original calculations. The maximum stress from the FEA was about 1.164 x 10^5 N/m^2, which is much lower than the 40ksi strength of aluminum given in the assignment. This showed that my bar could safely handle the applied load without exceeding the material strength.
 ![My Image](IMG_1036.jpeg)
+I created a displacement map to see how much the bar moved under the 400lb load. The simulation showed a maximum resultant displacement of about 3.188mm, or 0.1255in. The colors show how the displacement changes along the length of the bar.
+![My Image](IMG_1037.jpeg)
 
 ## Decide
 
