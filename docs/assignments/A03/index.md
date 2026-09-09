@@ -2,7 +2,7 @@
 
 ## Objective
 
-![My Image] (IMG_1013.jpeg)
+![My Image](IMG_1013.jpeg)
 ## Analyze
 
 
