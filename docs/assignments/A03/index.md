@@ -17,8 +17,15 @@ I created a displacement map to see how much the bar moved under the 400lb load.
 ![My Image](IMG_1037.jpeg)
 I also viewed the deformed shape to see how SolidWorks represented the bar's movement. The deformation is shown at a scale of 4,417.15, so the bending shown on the screen is greatly exaggerated and is not the actual shape the bar would take. This view helped me visualize where the deformation took place.
 ![My Image](IMG_1038.jpeg)
-Lastly, I checked the factor of safety using the maximum von Mises stress. SolidWorks calculated the lowest factor of safety as 236.802, which is much greater than 1. The bar is also shown completely in blue, confirming that it stays below the material's allowable strength under the applied load. My bar passes because the FEA gives me a minimum FOS of 236.802, so according to this simulation the bar is well above a factor of safety of 1, and the maximum stress is far below 40ksi.
+Lastly, I checked the factor of safety using the maximum von Mises stress. SolidWorks calculated the lowest factor of safety as 236.802, which is much greater than 1. However, the assignment requires comparison to an aluminum strength of 40ksi, so I separately checked the FEA maximum stress against 40ksi. The maximum stress was still far below 40ksi, so the design passes the strength requirement.
 ![My Image](IMG_1039.jpeg)
+## Design Reflection
+From my parametric hand calculation, I used a maximum axial deflection of 0.009in as provided. I used 8.8 x 10^6 psi for my elasticity, a cross-sectional area of 25.92in^2, and a load of 400lb, which gave me a calculated bar length of 5,132.16in. My SolidWorks FEA gave a maximum displacement of 3.188mm. I converted this to inches, and it became 0.1255in. I then calculated the percent difference using 2(0.1255-0.009)/0.1255+0.009 x (100) to then get a total percentage difference of 173.2%.
+
+There was a large difference between my hand calculated deflection of 0.009in and my FEA displacement of 0.1255in. One likely reason is the difference in the loading and boundary conditions between the two methods. My hand calculation assumes that the 400lb force acts directly along the axis of the bar, while my SolidWorks results showed the bar bending. This means the FEA was most likely including bending displacement in addition to axial deformation, which caused a much larger displacement. 
+
+For the intended design, I would trust my hand calculated result more for the axial deflection because the assignment is specifically based on direct axial tension. The equation I used directly relates to the load, length, area, modulus of elasticity, and axial deformation. Before trusting the FEA displacement more, I would need to make sure that the 400lb force was applied completely along the axis of the bar so that bending was not included in the result.
+
 ## Decide
 
 
