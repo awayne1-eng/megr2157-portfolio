@@ -15,6 +15,8 @@ I generated a von Mises stress map using the same 400lb load from my original ca
 ![My Image](IMG_1036.jpeg)
 I created a displacement map to see how much the bar moved under the 400lb load. The simulation showed a maximum resultant displacement of about 3.188mm, or 0.1255in. The colors show how the displacement changes along the length of the bar.
 ![My Image](IMG_1037.jpeg)
+I also viewed the deformed shape to see how SolidWorks represented the bar's movement. The deformation is shown at a scale of 4,417.15, so the bending shown on the screen is greatly exaggerated and is not the actual shape the bar would take. This view helped me visualize where the deformation took place.
+![My Image](IMG_1038.jpeg)
 
 ## Decide
 
