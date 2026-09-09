@@ -28,10 +28,16 @@ For the intended design, I would trust my hand calculated result more for the ax
 
 ## Pin Hole
 For the pin hole, I assumed a hole with a diameter equal to about half of the flat bar width, giving d/W = 0.50. I used a stress concentration factor of approximately K_t = 4.25. Using my FEA stress of 1.164 x 10^5 N/m^2 as a conservative nominal stress away from the hole, I estimated the peak stress as 4.947 x 10^5 N/m^2, or about 0.0718ksi. Compared to the 40ksi aluminum strength given in the assignment, this gives a factor of safety of approximately 557, so the bar would still pass the safety requirement within the pin hole.
-![My Image](
+![My Image](IMG_1040.jpeg)
 
-## Decide
+## Engineering Lessons Learned
+During this assignment, I learned how to use parametric equations in SolidWorks to control dimensions and how to run an FEA to check displacement, stress, deformation, and factor of safety. One mistake I made was not realizing at first that my FEA setup was causing the bar to bend instead of showing only axial deformation, which made my FEA displacement much larger than my hand calculated value. I also had to correct how I interpreted the factor of safety because the material strength being used in SolidWorks was different from the 40ksi value given in the assignment. These mistakes helped me understand how important the load direction, boundary conditions, and material properties are when comparing hand calculations to FEA results.
+
+## Modify Design Parameters
+Before doing my new calculations, I guessed that the length of my bar would decrease if I increased the load and made the cross-sectional area smaller. For my modified design, I changed the load from 400lb to 450lb and changed my outer and inner diameters from 7in and 4in to 5in and 3in. I kept the same material and modulus of elasticity so I could compare the new design to my original one. After changing the parameters and calculating the new length, I found that my guess was correct because increasing the load and decreasing the cross-sectional area caused the required length of the bar to decrease. This helped me see how changing individual design parameters affects the overall dimension of the bar.
+
+## CAD Work
 
 
-## Communicate
+
 
