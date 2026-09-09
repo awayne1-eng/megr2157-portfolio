@@ -37,7 +37,7 @@ During this assignment, I learned how to use parametric equations in SolidWorks 
 Before doing my new calculations, I guessed that the length of my bar would decrease if I increased the load and made the cross-sectional area smaller. For my modified design, I changed the load from 400lb to 450lb and changed my outer and inner diameters from 7in and 4in to 5in and 3in. I kept the same material and modulus of elasticity so I could compare the new design to my original one. After changing the parameters and calculating the new length, I found that my guess was correct because increasing the load and decreasing the cross-sectional area caused the required length of the bar to decrease. This helped me see how changing individual design parameters affects the overall dimension of the bar.
 
 ## CAD Model
-[Download my SolidWorks Bar Model](Part1-Bar-A3.SLDPRT)
+[Download my SolidWorks Bar Model](./Part1-Bar-A3.SLDPRT)
 
 
 
