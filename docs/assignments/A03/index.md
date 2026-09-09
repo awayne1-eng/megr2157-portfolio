@@ -7,6 +7,7 @@ For my calculations, I chose an applied force of 400lb, which is within the rang
 ![My Image](IMG_1013.jpeg)
 ## Analyze
 ![My Image](IMG_1014.jpeg)
+![My Image](IMG_1015.jpeg)
 ![My Image](
 
 ## Decide
