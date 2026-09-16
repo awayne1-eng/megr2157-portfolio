@@ -22,7 +22,7 @@ I started by setting up my global variables for the main dimensions for my motor
 ![My Image](IMG_1070.jpeg)
 
 I created the basic L-shape of the motor mount using the dimensions I calculated earlier. I then extruded the sketch to 50mm wide to create the main body of the mount.
-![My Image](
+![My Image](IMG_1071.jpeg)
 
 Next, I added a 5mm fillet to the inside corner of the motor mount. This rounded the sharp inside corner and completed the main shape of the mount.
 ![My Image](
