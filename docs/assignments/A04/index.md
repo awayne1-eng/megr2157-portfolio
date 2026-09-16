@@ -19,7 +19,7 @@ I created an isometric sketch of my motor mount using the dimensions that I had 
 
 # CAD Model(s)
 I started by setting up my global variables for the main dimensions for my motor mount. This made it easier to keep the dimensions from my calculations consistent throughout the model.
-![My Image](
+![My Image](IMG_1070.jpeg)
 
 I created the basic L-shape of the motor mount using the dimensions I calculated earlier. I then extruded the sketch to 50mm wide to create the main body of the mount.
 ![My Image](
