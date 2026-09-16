@@ -34,7 +34,7 @@ After defining the hole locations, I used an extruded cut to create all four hol
 ![My Image](IMG_1075.jpeg)
 
 Finally, I created the holes on the horizontal section where the motor will be positioned. I used an 18mm diameter for the motor face opening, a 6.5mm diameter for the shaft hole, and four 3.4mm bolt holes around the center. This completed the main geometry and mounting features of my CAD model(s).
-![My Image](
+![My Image](IMG_1086.jpeg)
 
 ## Decide
 
