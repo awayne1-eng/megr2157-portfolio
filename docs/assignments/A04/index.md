@@ -36,6 +36,9 @@ After defining the hole locations, I used an extruded cut to create all four hol
 Finally, I created the holes on the horizontal section where the motor will be positioned. I used an 18mm diameter for the motor face opening, a 6.5mm diameter for the shaft hole, and four 3.4mm bolt holes around the center. This completed the main geometry and mounting features of my CAD model(s).
 ![My Image](IMG_1086.jpeg)
 
+This is my complete and finished CAD model motor mount. It is made of ABS material and has all of my calculations and dimensions that I have solved.
+![My Image](IMG_1094.jpeg)
+
 ## Decide
 
 
