@@ -11,9 +11,11 @@ For Feature 1, I used ABS as my material and used its yield strength and modulus
 
 # Feature 2
 For Feature 2, I used the same ABS material, safety factor of 3, and allowable stress of 9.87MPa. I calculated the required thickness using both bending stress and deflection. The stress calculation gave me a minimum thickness of 12.08mm, while the deflection calculation gave 21.29mm. Since deflection required the larger value, I rounded the thickness up to 22mm for my SolidWorks model. I used 60mm for the height(or length), and 50mm for the width of Feature 2.
+![My Image](IMG_1067.jpeg)
 
 # Isometric Sketch
 I created an isometric sketch of my motor mount using the dimensions that I had calculated for both Features 1 and 2. I included all the previous dimensions, including the 5mm fillet. I also wanted to emphasize the importance of the proper dimensions for the bolt holes and shaft hole. After my sketch, I calculated the volume of the mount, subtracted the volume of the holes, and used the density of ABS to estimate the final mass of the mount.
+
 
 
 ## Decide
