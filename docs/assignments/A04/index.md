@@ -15,7 +15,7 @@ For Feature 2, I used the same ABS material, safety factor of 3, and allowable s
 
 # Isometric Sketch
 I created an isometric sketch of my motor mount using the dimensions that I had calculated for both Features 1 and 2. I included all the previous dimensions, including the 5mm fillet. I also wanted to emphasize the importance of the proper dimensions for the bolt holes and shaft hole. After my sketch, I calculated the volume of the mount, subtracted the volume of the holes, and used the density of ABS to estimate the final mass of the mount.
-
+![My Image](IMG_1068.jpeg)
 
 
 ## Decide
