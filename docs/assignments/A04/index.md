@@ -25,7 +25,7 @@ I created the basic L-shape of the motor mount using the dimensions I calculated
 ![My Image](IMG_1071.jpeg)
 
 Next, I added a 5mm fillet to the inside corner of the motor mount. This rounded the sharp inside corner and completed the main shape of the mount.
-![My Image](
+![My Image](IMG_1072.jpeg)
 
 I then sketched the four mount holes on the vertical section of the mount. I made each hole 3.4mm in diameter and located them 7mm from the side edges and 5mm from the top or bottom edges before cutting them through the part.
 ![My Image](
