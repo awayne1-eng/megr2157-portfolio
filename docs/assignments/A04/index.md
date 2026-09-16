@@ -3,8 +3,17 @@
 ## Objective
 The objective for this assignment was to design a motor mount for a (Brushed 24V DC Gear Motor 3.6Kg.cm/46RPM w/ 99.5:1 Planetary Gearbox), which is attached to a rigid wall. The main goal was for the motor mount to be designed to withstand the 300N load without exceeding the allowable stress or deflection. I used beam bending equations and the properties of ABS to determine the dimensions needed for the two main features. I then used my calculated dimensions to sketch and create the motor mount in SolidWorks using parametric modeling.
 
-
 ## Analyze
+## Motor Mount Research
+I researched different motor mount designs before making my final design. I found that many DC gear motor mounts use an L-shaped bracket with mounting holes to secure the motor and attach the bracket to a wall or frame. I used this general idea for my motor mount because it gives the motor a solid mounting surface while still allowing the shaft to extend out from the front. I also used multiple bolt holes so the mount would stay secure and resist movement from the motor torque.
+
+I also looked at designs that support the motor around its mounting face instead of only supporting one small area. This helped me decide to make the mount wide enough to support the motor and add material around the mounting holes. My final dimensions were then based on the strength and deflection calculations instead of copying the dimensions of an existing motor mount. I had ChatGPT help me find a couple links for my research.
+
+Carnegie Mellon - This is a strong research source because it specifically discusses mounting small gearmotors and shows examples where the motor's mounting face is secured to a panel using screws. 
+[Carnegie Mellon - Gearmotor Mounting](https://courses.ideate.cmu.edu/16-223/f2025/text/mechanism/gearmotors.html)
+
+L-Shaped Planetary Motor Mount - This is useful for explaining my soon to be L-shaped design. The example uses an L-shaped bracket, a center opening for the motor/shaft area, four motor mounting holes, and slots for attaching the bracket to another structure. 
+[L-Shaped Planetary Motor Mount](https://robotdoo.com/products/42mm-planetary-gear-motor-mounting-bracket)
 # Feature 1
 For Feature 1, I used ABS as my material and used its yield strength and modulus of elasticity in my calculations. I used a safety factor of 3 to get an allowable stress of 9.87MPa. I then checked the required height based on both bending stress and deflection. The deflection calculation controlled and gave me a minimum height of 14.20mm, so I rounded it up to 15mm to make it simpler in SolidWorks. I also used 40mm for the length and 50mm for the width of Feature 1.
 ![My Image](IMG_1066.jpeg)
