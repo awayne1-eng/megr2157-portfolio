@@ -28,7 +28,7 @@ Next, I added a 5mm fillet to the inside corner of the motor mount. This rounded
 ![My Image](IMG_1072.jpeg)
 
 I then sketched the four mount holes on the vertical section of the mount. I made each hole 3.4mm in diameter and located them 7mm from the side edges and 5mm from the top or bottom edges before cutting them through the part.
-![My Image](
+![My Image](IMG_1073.jpeg)
 
 After defining the hole locations, I used an extruded cut to create all four holes through the vertical section. These 3.4mm holes are the clearance holes for the M3 bolts used to attach the mount.
 ![My Image](
