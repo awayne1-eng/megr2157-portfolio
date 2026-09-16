@@ -2,7 +2,7 @@
 
 ## Objective
 The objective for this assignment was to design a motor mount for a (Brushed 24V DC Gear Motor 3.6Kg.cm/46RPM w/ 99.5:1 Planetary Gearbox), which is attached to a rigid wall. The main goal was for the motor mount to be designed to withstand the 300N load without exceeding the allowable stress or deflection. I used beam bending equations and the properties of ABS to determine the dimensions needed for the two main features. I then used my calculated dimensions to sketch and create the motor mount in SolidWorks using parametric modeling.
-
+![My Image](IMG_1066.jpeg)
 
 ## Analyze
 # Feature 1
