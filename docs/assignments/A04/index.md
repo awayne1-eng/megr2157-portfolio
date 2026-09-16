@@ -17,6 +17,24 @@ For Feature 2, I used the same ABS material, safety factor of 3, and allowable s
 I created an isometric sketch of my motor mount using the dimensions that I had calculated for both Features 1 and 2. I included all the previous dimensions, including the 5mm fillet. I also wanted to emphasize the importance of the proper dimensions for the bolt holes and shaft hole. After my sketch, I calculated the volume of the mount, subtracted the volume of the holes, and used the density of ABS to estimate the final mass of the mount.
 ![My Image](IMG_1068.jpeg)
 
+# CAD Model(s)
+I started by setting up my global variables for the main dimensions for my motor mount. This made it easier to keep the dimensions from my calculations consistent throughout the model.
+![My Image](
+
+I created the basic L-shape of the motor mount using the dimensions I calculated earlier. I then extruded the sketch to 50mm wide to create the main body of the mount.
+![My Image](
+
+Next, I added a 5mm fillet to the inside corner of the motor mount. This rounded the sharp inside corner and completed the main shape of the mount.
+![My Image](
+
+I then sketched the four mount holes on the vertical section of the mount. I made each hole 3.4mm in diameter and located them 7mm from the side edges and 5mm from the top or bottom edges before cutting them through the part.
+![My Image](
+
+After defining the hole locations, I used an extruded cut to create all four holes through the vertical section. These 3.4mm holes are the clearance holes for the M3 bolts used to attach the mount.
+![My Image](
+
+Finally, I created the holes on the horizontal section where the motor will be positioned. I used an 18mm diameter for the motor face opening, a 6.5mm diameter for the shaft hole, and four 3.4mm bolt holes around the center. This completed the main geometry and mounting features of my CAD model(s).
+![My Image](
 
 ## Decide
 
