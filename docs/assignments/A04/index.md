@@ -39,6 +39,11 @@ Finally, I created the holes on the horizontal section where the motor will be p
 This is my complete and finished CAD model motor mount. It is made of ABS material and has all of my calculations and dimensions that I have solved.
 ![My Image](IMG_1094.jpeg)
 
+## Drawings for my 3D CAD Model
+For the final drawing, I added the different views of my motor mount to show the overall shape and dimensions of the part. I included the top, front, side, and isometric views so the hole locations and main features can be clearly seen. I also added the important dimensions, including the overall size, hole diameters, hole locations, and the fillet. This drawing shows the final design and gives the dimensions needed to understand how the part was made.
+
+This assignment roughly took me 7-8 hours to complete.
+
 ## Decide
 
 
