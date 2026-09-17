@@ -14,19 +14,19 @@ Carnegie Mellon - This is a strong research source because it specifically discu
 
 L-Shaped Planetary Motor Mount - This is useful for explaining my soon to be L-shaped design. The example uses an L-shaped bracket, a center opening for the motor/shaft area, four motor mounting holes, and slots for attaching the bracket to another structure. 
 [L-Shaped Planetary Motor Mount](https://robotdoo.com/products/42mm-planetary-gear-motor-mounting-bracket)
-# Feature 1
+## Feature 1
 For Feature 1, I used ABS as my material and used its yield strength and modulus of elasticity in my calculations. I used a safety factor of 3 to get an allowable stress of 9.87MPa. I then checked the required height based on both bending stress and deflection. The deflection calculation controlled and gave me a minimum height of 14.20mm, so I rounded it up to 15mm to make it simpler in SolidWorks. I also used 40mm for the length and 50mm for the width of Feature 1.
 ![My Image](IMG_1066.jpeg)
 
-# Feature 2
+## Feature 2
 For Feature 2, I used the same ABS material, safety factor of 3, and allowable stress of 9.87MPa. I calculated the required thickness using both bending stress and deflection. The stress calculation gave me a minimum thickness of 12.08mm, while the deflection calculation gave 21.29mm. Since deflection required the larger value, I rounded the thickness up to 22mm for my SolidWorks model. I used 60mm for the height(or length), and 50mm for the width of Feature 2.
 ![My Image](IMG_1067.jpeg)
 
-# Isometric Sketch
+## Isometric Sketch
 I created an isometric sketch of my motor mount using the dimensions that I had calculated for both Features 1 and 2. I included all the previous dimensions, including the 5mm fillet. I also wanted to emphasize the importance of the proper dimensions for the bolt holes and shaft hole. After my sketch, I calculated the volume of the mount, subtracted the volume of the holes, and used the density of ABS to estimate the final mass of the mount.
 ![My Image](IMG_1068.jpeg)
 
-# CAD Model(s)
+## CAD Model(s)
 I started by setting up my global variables for the main dimensions for my motor mount. This made it easier to keep the dimensions from my calculations consistent throughout the model.
 ![My Image](IMG_1070.jpeg)
 
