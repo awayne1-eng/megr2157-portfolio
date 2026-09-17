@@ -55,5 +55,8 @@ For the final drawing, I added the different views of my motor mount to show the
 
 [Download my SolidWorks Motor Mount Model Drawings and Dimensions](https://github.com/awayne1-eng/megr2157-portfolio/blob/main/docs/assignments/A04/Assignment%204%20(Motor%20Rod).SLDDRW)
 
+## Engineering Lesson Learned
+During this assignment, I learned how important the material and dimensions are when designing a part. I learned how to use the yield strength and elasticity of ABS along with a factor of safety to determine the dimensions for my motor mount. I also got more SolidWorks experience by creating the different features, and adding fillets and holes, and by making the final drawing. Overall, the assignment helped me understand how the calculations and CAD Model work together to create a well finished design.
+
 This assignment roughly took me 7-8 hours to complete.
 
