@@ -10,7 +10,12 @@ Create detailed multiview sketches illustrating dimensions derived from both str
 Reflect on and document key engineering lessons learned throughout the process.
 
 ## Analyze
-## I started my bracket design by laying out each feature and finding the dimensions that I would need. I used the given 600lbf force, a safety factor of 4, and ASTM A36 Steel to calculate the proper sizes for each feature before putting the full bracket together.
+## Bracket Design Intro
+I started my bracket design by laying out each feature and finding the dimensions that I would need. I used the given 600lbf force, a safety factor of 4, and ASTM A36 Steel to calculate the proper sizes for each feature before putting the full bracket together.
+![My Image](IMG_1142.jpeg)
+
+## Stress Analysis
+For the stress analysis, I looked at each feature A through E separately to determine the minimum dimensions needed to handle the applied load. I used the 600lbf force, safety factor of 4, and the 36ksi yield strength of ASTM A36 steel in my calculations. Feature A was analyzed as a cantilever cylinder, Feature C as a simply supported beam, and Features B, D, and E as axial members. After finding the required dimensions for each feature, I used those values to put together my final stress design for the bracket.
 ![My Image](
 
 ## Decide
