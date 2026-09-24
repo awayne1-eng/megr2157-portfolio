@@ -32,4 +32,7 @@ For my stress analysis, I used the dimensions I calculated for each feature and 
 
 
 ## Communicate
-
+## Lessons Learned
+For my design, I found that stiffness governed the final size for Feature A. The stress analysis only required a diameter of 0.332in, while the stiffness analysis required a diameter of 0.738 in. This showed me that even if a part is strong enough to not yield, it can still need to be made larger to keep it from deflecting too much.
+One thing I had to be careful about was using the correct dimensions from one feature when moving on to the next feature. Since the features connect together, using a wrong length or dimension earlier could change the calculations for the features after it. I checked my lengths and calculations before putting all of my dimensions together in the final multiview sketches.
+One assumption I made was that ASTM A36 steel would be used for the entire bracket. The material properties were important because I used the yield strength for my stress calculations and the modulus of elasticity for my stiffness calculations. If I chose a material with different properties, some of my required dimensions would change, especially the dimensions controlled by stiffness.
