@@ -44,3 +44,6 @@ For my design, I found that stiffness governed the final size for Feature A. The
 One thing I had to be careful about was using the correct dimensions from one feature when moving on to the next feature. Since the features connect together, using a wrong length or dimension earlier could change the calculations for the features after it. I checked my lengths and calculations before putting all of my dimensions together in the final multiview sketches.
 
 One assumption I made was that ASTM A36 steel would be used for the entire bracket. The material properties were important because I used the yield strength for my stress calculations and the modulus of elasticity for my stiffness calculations. If I chose a material with different properties, some of my required dimensions would change, especially the dimensions controlled by stiffness.
+
+## Fits (2157)
+
