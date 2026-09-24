@@ -19,6 +19,9 @@ For the stress analysis, I looked at each feature A through E separately to dete
 ![My Image](IMG_1149.jpeg)
 ![My Image](IMG_1143.jpeg)
 
+## Stiffness Analysis
+For the stiffness analysis, I looked at each feature A through E separately to determine the dimensions needed to keep the bracket from deflecting too much. I used the 600lbf force, 29,000ksi modulus of elasticity for ASTM A36 steel, and the maximum deflection of 0.005in in my calculations. Feature A was analyzed as a cantilever cylinder, Feature C as a simply supported beam, and Features B, D, and E as axial members. After finding the required dimensions for each of these features, I used the final values to get my final stiffness design for the bracket.
+![My Image](
 ## Decide
 
 
