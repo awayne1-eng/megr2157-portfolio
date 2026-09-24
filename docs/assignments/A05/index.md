@@ -46,4 +46,6 @@ One thing I had to be careful about was using the correct dimensions from one fe
 One assumption I made was that ASTM A36 steel would be used for the entire bracket. The material properties were important because I used the yield strength for my stress calculations and the modulus of elasticity for my stiffness calculations. If I chose a material with different properties, some of my required dimensions would change, especially the dimensions controlled by stiffness.
 
 ## Fits (2157)
+For designing the dimensions of the link, I used the stress and deflection equations to find the dimensions needed for my link. I chose a width of 1.50in and a thickness of 0.250in, and my calculations showed that the link stays below both the allowable stress and maximum deflection, so the design should work safely.
+![My Image](
 
