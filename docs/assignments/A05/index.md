@@ -46,6 +46,13 @@ One thing I had to be careful about was using the correct dimensions from one fe
 One assumption I made was that ASTM A36 steel would be used for the entire bracket. The material properties were important because I used the yield strength for my stress calculations and the modulus of elasticity for my stiffness calculations. If I chose a material with different properties, some of my required dimensions would change, especially the dimensions controlled by stiffness.
 
 ## Fits (2157)
-For designing the dimensions of the link, I used the stress and deflection equations to find the dimensions needed for my link. I chose a width of 1.50in and a thickness of 0.250in, and my calculations showed that the link stays below both the allowable stress and maximum deflection, so the design should work safely.
-![My Image](
+(1) For designing the dimensions of the link, I used the stress and deflection equations to find the dimensions needed for my link. I chose a width of 1.50in and a thickness of 0.250in, and my calculations showed that the link stays below both the allowable stress and maximum deflection, so the design should work safely.
+![My Image](IMG_1162.jpeg)
+
+(2) I selected a Close Running Fit (RC 4) based on ANSI B4.1-1967 (R1987) standards from the Machinery’s Handbook (ANSI/ASME Standard Limits and Fits, pp. 646–660). I chose this fit because it allows smooth movement between Feature A and the link without blinding while still keeping the connection close and accurate.
+I would use precision reaming or CNC boring for the link hole and precision turning or grinding for the Feature A pin to achieve the required fit. I used this table in the handbook to help me. (ANSI B4.1 Table 1: Standard Running and Sliding Fits (RC 4).)
+
+(3) For the 1.000 in shaft, I selected a light drive fit (FN1) based on ANSI B4.1-1967 (R1987) standards from the Machinery’s Handbook (ANSI/ASME Standard Limits and Fits, pp. 646–660). I felt like this was the best choice since it uses light pressure during assembly and creates a secure connection that helps prevent the shaft from slipping under the load. I would use precision machining and reaming to achieve the required tolerances for the shaft and hole.
+
+
 
