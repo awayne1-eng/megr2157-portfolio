@@ -26,7 +26,7 @@ For the stiffness analysis, I looked at each feature A through E separately to d
 
 ## Stress and Stiffness Multi-View Sketches
 For my stress analysis, I used the dimensions I calculated for each feature and put them together into one complete bracket design. I drew the top, front, right, and isometric views to show how all of the features fit together and where each calculated dimension is located. For my stiffness, analysis, I did the same process but used the dimensions I calculated from the maximum deflection requirements. I then drew the top, front, right, and isometric views to show how the stiffness dimensions changed the final size of the bracket compared to the stress design.
-![My Image](
+![My Image](IMG_1146.jpeg)
 ![My Image](
 ## Decide
 
