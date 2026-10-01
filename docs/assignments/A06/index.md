@@ -8,10 +8,9 @@ From the previous assignment, I found the dimensions needed for my bracket to st
 ![My Image](IMG_1213.jpeg)
 ![My Image](IMG_1214.jpeg)
 
-## Analyze
-
-
-## Decide
+## Link Part for 2157
+For the CAD model of the link, I created global variables using the equations feature in SolidWorks. These variables were used to connect my engineering calculations directly to the dimensions of the CAD model. The values were determined from the stress and stiffness analysis completed previously, with the stress analysis controlling the final link width because it resulted in the larger required dimension. 
+![My Image](
 
 
 ## Communicate
