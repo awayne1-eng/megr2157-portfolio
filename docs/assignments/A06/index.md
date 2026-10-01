@@ -17,6 +17,12 @@ I first started out by listing all my dimensions into my global variables so tha
 ![My Image](IMG_1240.jpeg)
 ![My Image](IMG_1241.jpeg)
 
+## Bracket Reflection
+(a) During this assignment, I learned how useful it is to connect my calculations directly into SolidWorks instead of just typing in the final dimensions. I used the stress equation \sigma = \frac{F}{A} to help determine the required width of my bracket based on the force and stress values from my calculations. I also used the deflection equation \delta = \frac{FL}{AE} to compare the stiffness requirement. I entered these values through the global variables and equations feature in SolidWorks, which allowed my model to update if a value changed. This helped me understand how parametric modeling makes changing and improving a design much easier.
+
+(b) One thing I learned from this assignment is that adding tolerances is important because parts are not always made exactly to the dimensions shown in CAD. I used a tighter tolerance on the circular connection feature because it is a part that needs to fit correctly with another component. For the other dimensions that are not as important to the function of the bracket, I used a looser tolerance because small changes will not affect how the part works. I also learned that making every dimension have a very tight tolerance can make manufacturing harder and more expensive without improving the design.
+
+
 ## Link Part for 2157
 For the CAD model of the link, I created global variables using the equations feature in SolidWorks. These variables were used to connect my engineering calculations directly to the dimensions of the CAD model. The values were determined from the stress and stiffness analysis completed previously, with the stress analysis controlling the final link width because it resulted in the larger required dimension. 
 ![My Image](IMG_1230.jpeg)
