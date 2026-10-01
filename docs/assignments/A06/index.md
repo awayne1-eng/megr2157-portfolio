@@ -36,9 +36,9 @@ I created my link model in SolidWorks using the dimensions I got from my previou
 
 ## All of my CAD Models and Multi-View Drawings
 [Download my SolidWorks Motor Mount Model](https://github.com/awayne1-eng/megr2157-portfolio/blob/main/docs/assignments/A06/Bracket%20Drawing.SLDPRT)
-[Download my SolidWorks Motor Mount Model]
-[Download my SolidWorks Motor Mount Model]
-[Download my SolidWorks Motor Mount Model]
+[Download my SolidWorks Motor Mount Model](https://github.com/awayne1-eng/megr2157-portfolio/blob/main/docs/assignments/A06/Bracket%20Multi-View%20Drawing.SLDDRW)
+[Download my SolidWorks Motor Mount Model](
+[Download my SolidWorks Motor Mount Model](
 ## Link Part Reflection
 I learned that tolerances are important because they help make sure parts will fit together correctly when they are manufactured. For my link design, adding tolerances to the holes and other important dimensions helped show which areas needed to be more precise for the connection to work properly. This assignment helped me understand how engineers use drawings and dimensions to communicate how a part should be made.
 
