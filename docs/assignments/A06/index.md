@@ -15,7 +15,7 @@ I first started out by listing all my dimensions into my global variables so tha
 ![My Image](IMG_1237.jpeg)
 ![My Image](IMG_1238.jpeg)
 ![My Image](IMG_1240.jpeg)
-![My Image](
+![My Image](IMG_1241.jpeg)
 
 ## Link Part for 2157
 For the CAD model of the link, I created global variables using the equations feature in SolidWorks. These variables were used to connect my engineering calculations directly to the dimensions of the CAD model. The values were determined from the stress and stiffness analysis completed previously, with the stress analysis controlling the final link width because it resulted in the larger required dimension. 
