@@ -35,7 +35,7 @@ I created my link model in SolidWorks using the dimensions I got from my previou
 ![My Image](IMG_1235.jpeg)
 
 ## All of my CAD Models and Multi-View Drawings
-[Download my SolidWorks Motor Mount Model](
+[Download my SolidWorks Motor Mount Model](https://github.com/awayne1-eng/megr2157-portfolio/blob/main/docs/assignments/A06/Bracket%20Drawing.SLDPRT)
 [Download my SolidWorks Motor Mount Model]
 [Download my SolidWorks Motor Mount Model]
 [Download my SolidWorks Motor Mount Model]
