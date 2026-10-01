@@ -15,7 +15,7 @@ For the CAD model of the link, I created global variables using the equations fe
 ## CAD Model and Multi-View Drawing
 I created my link model in SolidWorks using the dimensions I got from my previous calculations. I used global variables to help control my sketch dimensions and make sure the CAD model matched my stress and deflection requirements. After finishing the model, I added the ASTM A36 steel material and created a multi-view drawing with the front, top, right, and isometric views, along with the important dimensions and tolerances.
 ![My Image](IMG_1231.jpeg)
-![My Image](
+![My Image](IMG_1232.jpeg)
 ![My Image](
 
 
