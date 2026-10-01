@@ -11,7 +11,7 @@ From the previous assignment, I found the dimensions needed for my bracket to st
 ## CAD Model and Multi-View Drawing for Bracket
 I first started out by listing all my dimensions into my global variables so that I could start labeling my CAD model. So, I thencreated the final CAD model of my bracket design by combining all of the features from my previous calculations and sketches. I used the dimensions from my stress analysis to make sure the geometry matched the requirements. The bottom circular/semi-circle feature was added to represent the connection point, while the top opening was designed to allow the bracket to function as intended. I know I messed up on my CAD, but I tried to make it right best I could with my dimensions. Then, I created a multi-view drawing of my bracket to show the different views and important dimensions of the final design. I added tolerances to critical features, such as the radius and main dimensions. This helped show how the part should be made and how the different features need to fit together.
 ![My Image](IMG_1225.jpeg)
-![My Image](
+![My Image](IMG_1224.jpeg)
 ![My Image](
 ![My Image](
 ![My Image](
