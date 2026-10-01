@@ -10,6 +10,12 @@ From the previous assignment, I found the dimensions needed for my bracket to st
 
 ## Link Part for 2157
 For the CAD model of the link, I created global variables using the equations feature in SolidWorks. These variables were used to connect my engineering calculations directly to the dimensions of the CAD model. The values were determined from the stress and stiffness analysis completed previously, with the stress analysis controlling the final link width because it resulted in the larger required dimension. 
+![My Image](IMG_1230.jpeg)
+
+## CAD Model and Multi-View Drawing
+I created my link model in SolidWorks using the dimensions I got from my previous calculations. I used global variables to help control my sketch dimensions and make sure the CAD model matched my stress and deflection requirements. After finishing the model, I added the ASTM A36 steel material and created a multi-view drawing with the front, top, right, and isometric views, along with the important dimensions and tolerances.
+![My Image](
+![My Image](
 ![My Image](
 
 
