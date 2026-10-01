@@ -19,5 +19,6 @@ I created my link model in SolidWorks using the dimensions I got from my previou
 ![My Image](IMG_1235.jpeg)
 
 
-## Communicate
+## Link Part Reflection
+I learned that tolerances are important because they help make sure parts will fit together correctly when they are manufactured. For my link design, adding tolerances to the holes and other important dimensions helped show which areas needed to be more precise for the connection to work properly. This assignment helped me understand how engineers use drawings and dimensions to communicate how a part should be made.
 
