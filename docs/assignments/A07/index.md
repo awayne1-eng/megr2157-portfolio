@@ -53,4 +53,7 @@ From this project, I learned how important it is to check the stress, deflection
 
 ## CAD Links
 
+[Download my SolidWorks Bracket](
+
+[Download my SolidWorks Link](
 
