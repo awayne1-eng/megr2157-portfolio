@@ -39,6 +39,8 @@ For Design 1, I used SolidWorks Simulation to analyze my bracket and see how it 
 
 <img width="1322" height="427" alt="Screenshot 2026-10-21 230944" src="https://github.com/user-attachments/assets/edc62b3e-a9cc-4335-858f-f5f615ac17f2" />
 
+For my link design, I used SolidWorks Simulation to see how the part would react to the applied load and determine where the highest stress and deflection would occur. I looked at the von Mises stress plot, which showed a maximum stress of 7,424.72 psi around the lower hole of the link. I also checked the displacement plot and found a maximum deflection of 0.000343 inches in the lower unit. The strain plot helped me see how the link deformed under the load, while the factor of safety plot showed a safety factor of 4.8836 for my original design. I then created different meshes to see how changing the number of elements affected my results. I tested three meshes with 6,306, 7,966, and 9,247 elements and compared the maximum stress, strain, and safety factor to check for convergence. The results became more consistent between the second and third meshes, so I used those results to help evaluate my design. After that, I tested increasing the thickness of the link and the width of the hanger to see how changing the dimensions affected its performance. Overall, my original link design had a mass of 0.05 pounds, and the simulations helped me understand how the link performed under the applied load and how changing its dimensions affected the stress and safety factor.
+
 
 
 
