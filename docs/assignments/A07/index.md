@@ -34,6 +34,12 @@ For Design 1, I used SolidWorks Simulation to analyze my bracket and see how it 
 
 <img width="380" height="572" alt="Screenshot 2026-10-21 213448" src="https://github.com/user-attachments/assets/f5c62d9e-7099-47a1-a6f4-99376b40c2cf" />
 
+<img width="1071" height="183" alt="Screenshot 2026-10-21 230925" src="https://github.com/user-attachments/assets/4db2aa2e-1158-4a73-97e1-db218cfbb827" />
+
+<img width="1322" height="427" alt="Screenshot 2026-10-21 230944" src="https://github.com/user-attachments/assets/edc62b3e-a9cc-4335-858f-f5f615ac17f2" />
+
+
+
 
 
 
