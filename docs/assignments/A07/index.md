@@ -49,5 +49,8 @@ For my bracket, I decided to increase the thickness of the hanger connector and 
 
 ## Lesson Learned
 
-From this project, I learned how important it is to check the stress, deflection, and safety factor when designing a part. I also learned that changing the dimensions can make a big difference in how a part performs, so it is important to test different designs instead of just guessing what will work. Using different meshes helped me see how the number of elements affects the simulation results and why checking for convergence is important. Overall, this project helped me get more comfortable using SolidWorks Simulation and understanding how to improve my designs.
+From this project, I learned how important it is to check the stress, deflection, and safety factor when designing a part. I also learned that changing the dimensions can make a big difference in how a part performs, so it is important to test different designs instead of just guessing what will work. Using different meshes helped me see how the number of elements affects the simulation results and why checking for convergence is important. Overall, this project helped me get more comfortable using SolidWorks Simulation and understanding how to improve my designs. It also roughly took me 3-4 hours to finish this assignment.
+
+## CAD Links
+
 
