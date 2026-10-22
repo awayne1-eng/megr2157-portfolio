@@ -24,6 +24,18 @@ For Design 1, I used SolidWorks Simulation to analyze my bracket and see how it 
 
 ## Link and Iterations
 
+<img width="957" height="633" alt="Screenshot 2026-10-21 213532" src="https://github.com/user-attachments/assets/fab53f57-c13a-4582-a648-dd444a6a018c" />
+
+<img width="890" height="637" alt="Screenshot 2026-10-21 213549" src="https://github.com/user-attachments/assets/1dbeb268-29a1-48b3-81be-641cc69205f3" />
+
+<img width="911" height="637" alt="Screenshot 2026-10-21 213556" src="https://github.com/user-attachments/assets/ce1aa7b2-fd4c-4eee-b093-cf37487647c3" />
+
+<img width="888" height="581" alt="Screenshot 2026-10-21 213607" src="https://github.com/user-attachments/assets/e4864adb-d2ed-427c-b051-afca911ea997" />
+
+<img width="380" height="572" alt="Screenshot 2026-10-21 213448" src="https://github.com/user-attachments/assets/f5c62d9e-7099-47a1-a6f4-99376b40c2cf" />
+
+
+
 
 
 
