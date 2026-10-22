@@ -55,5 +55,5 @@ From this project, I learned how important it is to check the stress, deflection
 
 [Download my SolidWorks Bracket](https://github.com/awayne1-eng/megr2157-portfolio/blob/main/docs/assignments/A07/Bracket%20Drawing.SLDPRT)
 
-[Download my SolidWorks Link](
+[Download my SolidWorks Link](https://github.com/awayne1-eng/megr2157-portfolio/blob/main/docs/assignments/A07/2157%20Link%20Part.SLDPRT)
 
