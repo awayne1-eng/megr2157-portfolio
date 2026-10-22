@@ -22,6 +22,9 @@ The objective of this assignment is to use FEA in SolidWorks to improve my brack
 For Design 1, I used SolidWorks Simulation to analyze my bracket and see how it would react to the applied load. I looked at the von Mises stress plot to find where the highest stress was occurring, which was at the hanger connector with a maximum stress of 11,503.15 psi. I also checked the displacement plot to see how much the bracket would move, and the maximum deflection was 0.000614 inches at the lower hanger. I then used the mesh tool to divide the model into smaller elements so I could see how changing the mesh affected the results. I tested three different meshes, increasing the number of elements from 6,434 to 7,826 and then to 11,073. As I refined the mesh, I compared the maximum stress, strain, and safety factor to check for convergence. The last two meshes both gave a safety factor of 3.0944, showing that the results were becoming more consistent. Overall, Design 1 had a mass of 0.09 pounds, and the simulation helped me understand where the highest stress occurred and how my bracket performed under the applied load.
 
 
+## Link and Iterations
+
+
 
 
 
