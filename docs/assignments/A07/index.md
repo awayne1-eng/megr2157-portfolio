@@ -41,27 +41,13 @@ For Design 1, I used SolidWorks Simulation to analyze my bracket and see how it 
 
 For my link design, I used SolidWorks Simulation to see how the part would react to the applied load and determine where the highest stress and deflection would occur. I looked at the von Mises stress plot, which showed a maximum stress of 7,424.72 psi around the lower hole of the link. I also checked the displacement plot and found a maximum deflection of 0.000343 inches in the lower unit. The strain plot helped me see how the link deformed under the load, while the factor of safety plot showed a safety factor of 4.8836 for my original design. I then created different meshes to see how changing the number of elements affected my results. I tested three meshes with 6,306, 7,966, and 9,247 elements and compared the maximum stress, strain, and safety factor to check for convergence. The results became more consistent between the second and third meshes, so I used those results to help evaluate my design. After that, I tested increasing the thickness of the link and the width of the hanger to see how changing the dimensions affected its performance. Overall, my original link design had a mass of 0.05 pounds, and the simulations helped me understand how the link performed under the applied load and how changing its dimensions affected the stress and safety factor.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Analyze
-
-
 ## Decide
 
+For my bracket, I decided to increase the thickness of the hanger connector and then increase the diameter of the hanger to improve the design and reach a safety factor of 15. For my link, I tested increasing the thickness first and then increased the width to see how it affected the stress and safety factor. The wider design gave me a safety factor of 15 in my simulation. I used ASTM A36 Steel for my material, and I compared the stress, deflection, mass, and safety factor to help decide which design worked best.
 
-## Communicate
+
+
+## Lesson Learned
+
+From this project, I learned how important it is to check the stress, deflection, and safety factor when designing a part. I also learned that changing the dimensions can make a big difference in how a part performs, so it is important to test different designs instead of just guessing what will work. Using different meshes helped me see how the number of elements affects the simulation results and why checking for convergence is important. Overall, this project helped me get more comfortable using SolidWorks Simulation and understanding how to improve my designs.
 
