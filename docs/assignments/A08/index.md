@@ -19,10 +19,14 @@ For the journal bearings, I calculated the bearing pressure, surface velocity, a
 For the gearbox housing sketch, I used my gear and shaft dimensions to plan out a housing that would fit everything together properly. I included enough clearance for the gears and space for the journal bearings, along with a way to fasten the housing together. This gave me a starting point for creating the final gearbox design in SolidWorks.
 
 ## CAD on Gearbox Housing
-[Download my SolidWorks Half Case](
-[Download my SolidWorks Half Copy]
-[Download my SolidWorks Assembly with everything including gears, bearings, sleeves, etc.]
-[Download my SolidWorks Bracket]
+[My Image](IMG_1336.jpeg)
+[My Image]
+[My Image]
+[My Image]
+[My Image]
+[My Image]
+[My Image]
+[My Image]
 
 
 ## Decide
