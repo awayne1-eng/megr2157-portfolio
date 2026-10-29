@@ -43,8 +43,8 @@ I made six drawings for my two shafts, two gearbox housings, and two plain beari
 
 ## Drawings
 
-[Download my Input Shaft Drawing](
-[Download my Output Shaft Drawing]
+[Download my Input Shaft Drawing](https://github.com/awayne1-eng/megr2157-portfolio/blob/main/docs/assignments/A08/Input%20Shaft%20Drawing.SLDDRW)
+[Download my Output Shaft Drawing](
 [Download my T2 Bearing Drawing]
 [Download my T6 Bearing Journal]
 [Download my K19 Gear Drawing]
