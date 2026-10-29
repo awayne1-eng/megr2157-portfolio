@@ -30,7 +30,7 @@ For the gearbox housing sketch, I used my gear and shaft dimensions to plan out 
 For the CAD of my gearbox housing, I was able to successfully design one. I started with getting the proper dimensions and extruding by my thicknesses. I then created two pin holes and made a copy so the other case could conjoin with the other. I then assembled all my gears, sleeves, and shafts from the links. I used the mate technique to join them together, and the gears were able to move along with one another in the end.
 
 ## Engineering Lessons Learned
-One of the biggest things I learned from this assignment was how to use calculations to make sure the shafts and journal bearings could handle the required loads. I also learned how important it is to leave enough clearance between the gears and housing, so everything fits and works together properly. Overall, this assignment helped me get better at using SolidWorks and showed me how important it is to check my calculations and dimensions before finishing a design. 
+One of the biggest things I learned from this assignment was how to use calculations to make sure the shafts and journal bearings could handle the required loads. I also learned how important it is to leave enough clearance between the gears and housing, so everything fits and works together properly. Overall, this assignment helped me get better at using SolidWorks and showed me how important it is to check my calculations and dimensions before finishing a design. This took me around 8 hours.
 
 ## CAD Work Downloads and 2157 Drawings
 I made six drawings for my two shafts, two gearbox housings, and two plain bearings, along with an assembly drawing of the whole gearbox. I made sure my drawings followed ASME Y14.5 standards and used third-angle projection.
@@ -49,7 +49,7 @@ I made six drawings for my two shafts, two gearbox housings, and two plain beari
 [Download my T6 Bearing Journal](https://github.com/awayne1-eng/megr2157-portfolio/blob/main/docs/assignments/A08/Journal%20Bearing%20T6.SLDDRW)
 [Download my K19 Gear Drawing](https://github.com/awayne1-eng/megr2157-portfolio/blob/main/docs/assignments/A08/Metal%20Gear%20K19%20Drawing.SLDDRW)
 [Download my K24 Gear Drawing](https://github.com/awayne1-eng/megr2157-portfolio/blob/main/docs/assignments/A08/Metal%20Gear%20K24%20Drawing.SLDDRW)
-[Download my Assembly Drawing](
+[Download my Assembly Drawing](https://github.com/awayne1-eng/megr2157-portfolio/blob/main/docs/assignments/A08/Assembly%20for%20A8.SLDDRW)
 
 
 
