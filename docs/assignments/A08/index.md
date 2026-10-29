@@ -22,7 +22,7 @@ For the gearbox housing sketch, I used my gear and shaft dimensions to plan out 
 ![My Image](IMG_1336.jpeg)
 ![My Image](IMG_1341.jpeg)
 ![My Image](IMG_1342.jpeg)
-![My Image](
+![My Image](IMG_1348.jpeg)
 ![My Image]
 ![My Image]
 ![My Image]
