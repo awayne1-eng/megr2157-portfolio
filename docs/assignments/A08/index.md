@@ -41,6 +41,17 @@ I made six drawings for my two shafts, two gearbox housings, and two plain beari
 
 [Download my SolidWorks Assembly](https://github.com/awayne1-eng/megr2157-portfolio/blob/main/docs/assignments/A08/Assembly%20for%20A8.SLDASM)
 
+## Drawings
+
+[Download my Input Shaft Drawing](
+[Download my Output Shaft Drawing]
+[Download my T2 Bearing Drawing]
+[Download my T6 Bearing Journal]
+[Download my K19 Gear Drawing]
+[Download my K24 Gear Drawing]
+[Download my Assembly Drawing]
+
+
 
 
 
