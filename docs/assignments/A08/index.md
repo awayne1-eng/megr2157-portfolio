@@ -48,8 +48,8 @@ I made six drawings for my two shafts, two gearbox housings, and two plain beari
 [Download my T2 Bearing Drawing](https://github.com/awayne1-eng/megr2157-portfolio/blob/main/docs/assignments/A08/2610T2%20Journal%20Bearing.SLDDRW)
 [Download my T6 Bearing Journal](https://github.com/awayne1-eng/megr2157-portfolio/blob/main/docs/assignments/A08/Journal%20Bearing%20T6.SLDDRW)
 [Download my K19 Gear Drawing](https://github.com/awayne1-eng/megr2157-portfolio/blob/main/docs/assignments/A08/Metal%20Gear%20K19%20Drawing.SLDDRW)
-[Download my K24 Gear Drawing](
-[Download my Assembly Drawing]
+[Download my K24 Gear Drawing](https://github.com/awayne1-eng/megr2157-portfolio/blob/main/docs/assignments/A08/Metal%20Gear%20K24%20Drawing.SLDDRW)
+[Download my Assembly Drawing](
 
 
 
