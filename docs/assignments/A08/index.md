@@ -36,7 +36,7 @@ One of the biggest things I learned from this assignment was how to use calculat
 I made six drawings for my two shafts, two gearbox housings, and two plain bearings, along with an assembly drawing of the whole gearbox. I made sure my drawings followed ASME Y14.5 standards and used third-angle projection.
 [Download my SolidWorks Case](Gear Housing Part Case.SLDPRT)
 [Download my SolidWorks Case Copy](Gear Housing Copy.SLDPRT)
-[Download my SolidWorks Case Copy](
+[Download my SolidWorks Case Copy](Assembly for A8.SLDASM)
 
 
 
