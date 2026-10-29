@@ -37,7 +37,7 @@ I made six drawings for my two shafts, two gearbox housings, and two plain beari
 
 [Download my SolidWorks Case](https://github.com/awayne1-eng/megr2157-portfolio/blob/main/docs/assignments/A08/Gear%20Housing%20Part%20Case.SLDPRT)
 
-[Download my SolidWorks Case Copy](Gear Housing Copy.SLDPRT)
+[Download my SolidWorks Case Copy](https://github.com/awayne1-eng/megr2157-portfolio/blob/main/docs/assignments/A08/Gear%20Housing%20Copy.SLDPRT)
 
 [Download my SolidWorks Case Copy](Assembly for A8.SLDASM)
 
