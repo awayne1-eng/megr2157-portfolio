@@ -27,6 +27,7 @@ For the gearbox housing sketch, I used my gear and shaft dimensions to plan out 
 ![My Image](IMG_1344.jpeg)
 ![My Image](IMG_1345.jpeg)
 ![My Image](IMG_1346.jpeg)
+For the CAD of my gearbox housing, I was able to successfully design one. I started with getting the proper dimensions and extruding by my thicknesses. I then created two pin holes and made a copy so the other case could conjoin with the other. I then assembled all my gears, sleeves, and shafts from the links. I used the mate technique to join them together, and the gears were able to move along with one another in the end.
 
 
 ## Decide
