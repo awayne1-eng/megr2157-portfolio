@@ -19,9 +19,6 @@ For the journal bearing, I used the combined belt forces to determine a net load
 For the frame design, I decided to use 6061-T6 aluminum because it provides a lightweight support structure for the pulley system. I designed the frame with an overall length of 7 inches, a width of 1 inch, and a thickness of 0.25 inches, with the mounting holes spaced 5 inches apart. I used the 10 lbf loading condition to calculate the normal stress, which came out to 40 psi. I also calculated the moment of inertia and used Euler's buckling equation to determine the critical buckling load of approximately 5,140 lbf. After comparing this value to the applied load, I calculated a buckling safety factor of 514, which is well above the required safety factor of 3. Based on these results, the frame dimensions should provide sufficient resistance to buckling under the applied load.
 ![My Image](IMG_1370.jpeg)
 
-
-## Decide
-
-
-## Communicate
+## Lessons Learned
+One thing I learned from this project was how friction between the belt and pulleys affects the tension on each side and how that difference in tension is what allows torque to be transferred. I also learned how important it is to consider the safety factor when choosing dimensions and materials so that each component can handle the forces being applied to it. Another thing I learned was how shaft diameter, bearing pressure, and rotational speed all work together when designing a system. Overall, this project helped me better understand how different mechanical components work together and how engineering calculations are used to make sure the entire system can operate safely. This assignment roughly took me anywhere from 3-4 hours.
 
