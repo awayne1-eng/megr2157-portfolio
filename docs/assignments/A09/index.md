@@ -10,7 +10,7 @@ This project moves away from the CAD design portion of the course and focuses mo
 ![My Image](IMG_1368.jpeg)
 
 ## Bearing Work
-![My Image](
+![My Image](IMG_1369.jpeg)
 
 ## Frame Design
 ![My Image](
