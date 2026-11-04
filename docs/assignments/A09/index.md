@@ -7,7 +7,7 @@ This project moves away from the CAD design portion of the course and focuses mo
 ![My Image](IMG_1367.jpeg)
 
 ## Shaft Work
-![My Image](
+![My Image](IMG_1368.jpeg)
 
 ## Bearing Work
 ![My Image](
